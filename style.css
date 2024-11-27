@@ -7,7 +7,7 @@
 }
 body{
     background-color: #c9d6ff;
-    background: linear-gradient(to left, #a7a6af, #1b1b1b);
+    background: linear-gradient(to left, #726e91, #031224);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -40,7 +40,7 @@ body{
     margin: 15px 0 10px;
 }
 .container button{
-    background-color: #000000;
+    background-color: #031224;
     color: #fff;
     font-size: 12px;
     padding: 10px 45px;
@@ -144,9 +144,9 @@ body{
     border-radius: 0 150px 100px 0;
 }
 .toggle{
-    background-color: #000000;
+    background-color: #031224;
     height: 100%;
-    background: linear-gradient(to right, #000000, #000000);
+    background: linear-gradient(to right, #031224, #031224);
     color: #fff;
     position: relative;
     left: -100%;
